@@ -1,19 +1,19 @@
 {
   "time_off": [
     {
-      "id":"1",
+      "id": "1",
       "title": "Vacation",
       "start_date": "September 26, 2025",
       "end_date": "September 27, 2025"
     },
     {
-      "id":"2",
+      "id": "2",
       "title": "Sick",
       "start_date": "October 3, 2025",
       "end_date": "October 5, 2025"
     },
     {
-      "id":"3",
+      "id": "3",
       "title": "Vacation",
       "start_date": "December 25, 2025",
       "end_date": "December 30, 2025"
