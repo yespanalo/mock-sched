@@ -1,10 +1,12 @@
 {
   "time_off": [
     {
+      "title": "Vacation",
       "start_date": "09-26-2025",
       "end_date": "09-28-2025"
     },
     {
+      "title": "Sick",
       "start_date": "09-26-2025",
       "end_date": "09-28-2025"
     }
