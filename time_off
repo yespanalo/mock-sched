@@ -2,13 +2,18 @@
   "time_off": [
     {
       "title": "Vacation",
-      "start_date": "09-26-2025",
-      "end_date": "09-28-2025"
+      "start_date": "September 26, 2025",
+      "end_date": "September 27, 2025"
     },
     {
       "title": "Sick",
-      "start_date": "09-26-2025",
-      "end_date": "09-28-2025"
+      "start_date": "October 3, 2025",
+      "end_date": "October 5, 2025"
+    },
+    {
+      "title": "Vacation",
+      "start_date": "December 25, 2025",
+      "end_date": "December 30, 2025"
     }
   ]
 }
