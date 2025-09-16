@@ -1,0 +1,10 @@
+{
+  "payment_settings": [
+    {
+      "account_number": "09690118896",
+      "payment_mode": "Gcash",
+      "deposit_fee": "Php 5000",
+      "qr_link": "https://test-app.stratodigital.io/media/doctor/6df28071-a5fc-4dff-9c79-bc70b4aef54b/gcash-sample.jpg"
+    }
+  ]
+}
